@@ -1,24 +1,14 @@
-# README
+# MooCademy @loundness
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Plateforme d'apprentissage en ligne sur laquelle on retrouve des cours,
+avec différentes catégories.
 
-Things you may want to cover:
+Utiliser les versions suivantes
 
-* Ruby version
+* Ruby version 2.5.1
 
-* System dependencies
+* Rails version 5.2.0
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Puis lancez bundle install
+ puis rails :db migrate
+ puis rails :db seed
